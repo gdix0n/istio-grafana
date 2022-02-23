@@ -21,4 +21,4 @@ spec:
   tls:
   - hosts:
     - grafana.gdixon.io
-    secretName: your-certificate-name
+    secretName: wildcard-cert
